@@ -1,4 +1,17 @@
-h1
-{
-    color:red;
+body{
+background-color:rgb(20, 25, 27);
+text-align:center;
+color:white;
+justify-content:center;
+}
+table{
+    margin:auto;
+    width:60vw;
+    padding:auto;
+    border:1px dotted rgb(172, 151, 151);
+    box-shadow: 1px 1px 20px rgb(120, 125, 127);
+    font-size: 1.2em;
+}
+td{
+    border:0.2px dashed white
 }
